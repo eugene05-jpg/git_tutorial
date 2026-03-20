@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-1 line
-Second line
 
-=======
 1 line
 second line
->>>>>>> 6f3b145 (for rebase)
+3 line
+
